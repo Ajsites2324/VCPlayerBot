@@ -91,7 +91,7 @@ python3 main.py
 
 [Note To A So Called Dev](https://telegram.dog/subin_works/203): 
 
-Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo wont make you a Developer.
+Canging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo wont make you a Developer.
 Fork the repo and edit as per your needs.
 
 ## LICENSE
